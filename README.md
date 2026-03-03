@@ -1,5 +1,7 @@
 # Chocolate Sales — Business Intelligence for FMCG
 
+[Link to this project on Tableau Public](https://public.tableau.com/views/chocolatesales_17709105308930/ChocolateSales?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 This project translated structured sales data into an **executive-facing performance dashboard** designed to answer a clear commercial question:
 > Which products, regions and sales persons are driving revenue growth, and where is performance lagging?
 
@@ -13,6 +15,7 @@ The dashboard integrates
 - geographical comparison
 - product and sales person contribution
 
+![Screenshot of a dashboard]()
 ---
 
 ## What’s in this repository
