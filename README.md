@@ -15,7 +15,7 @@ The dashboard integrates
 - geographical comparison
 - product and sales person contribution
 
-![Screenshot of a dashboard]()
+![Screenshot of a dashboard](Chocolate Sales.png)
 ---
 
 ## What’s in this repository
