@@ -20,11 +20,9 @@ The dashboard integrates
 
 ## What’s in this repository
 
-- **Jupyter Notebook:** full exploratory analysis (`Automobiles_Capstone_Project.ipynb`)  
-- **Report:** formal written analysis and recommendations (`EDA_report_Automobile_Dataset.pdf`)  
-- **Images:** visualisations and reviewer feedback  
-- **Source data:** automobile dataset (`automobile.txt`)  
-- **Requirements:** Python dependencies (`requirements.txt`)  
+- [Link to this project on Tableau Public](https://public.tableau.com/views/chocolatesales_17709105308930/ChocolateSales?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+- **Image of the dashboard**   
+- **Source data:** `Chocolate Sales (2).csv`  
 
 ---
 
