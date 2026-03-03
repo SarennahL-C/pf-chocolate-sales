@@ -110,6 +110,11 @@ These extensions would move the product from descriptive BI toward predictive an
 
 ---
 
+## Data source
+[Saidamin Saidakhmadov](https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales) contribution to Kaggle.
+
+---
+
 ## Why this project belongs in my portfolio
 This project demonstrates my ability to translate analytical outputs into structured, decision-oriented tools.
 
